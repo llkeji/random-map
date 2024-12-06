@@ -1,3 +1,6 @@
 [[redirects]]
   from = "/ip"
   to = "https://ip.rss.ink"
+  status = 200
+  force = true
+  headers = { X-Edge-Request = "true" }
