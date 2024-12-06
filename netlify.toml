@@ -1,5 +1,0 @@
-[[redirects]]
-  from = "/ip"
-  to = "/.netlify/functions/random-ip-redirect"
-  status = 200
-  force = true
