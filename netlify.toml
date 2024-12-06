@@ -1,6 +1,5 @@
 [[redirects]]
   from = "/ip"
-  to = "https://ip.rss.ink"
+  to = "/.netlify/functions/random-ip-redirect"
   status = 200
   force = true
-  headers = { X-Edge-Request = "true" }
